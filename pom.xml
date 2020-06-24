@@ -47,13 +47,13 @@
 	<repository>
 		<id>nexusdeploymentRepo</id>
 		<name>maxotech</name>
-		<url>http://192.168.7.173:8081//repository/maven-releases/</url>
+		<url>http://192.168.7.179:8085//repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>nexusdeploymentRepo</id>
 		<name>maxotech</name>
-		<url>http://192.168.7.173:8081//repository/maven-snapshots/</url>
+		<url>http://192.168.7.179:8085//repository/maven-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
